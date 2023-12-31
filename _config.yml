@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi-Chun (Jim) Lo"
+title                    : "Yi-Chun (Jim) Lo / Personal Home Page"
 title_separator          : "-"
 name                     : &name "Yi-Chun (Jim) Lo"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yi-Chun (Jim) Lo"
-  avatar           : "11.JPEG"
+  avatar           : "11.png"
   bio              : "UCLA MSCS | seeking for SWE internship"
   location         : "500 Landfair Ave"
   employer         :
@@ -94,22 +94,20 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/jai.fai.3511"
   foursquare       :
-  github           : "academicpages"
+  github           : "yichunlo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yi-chun-lo-416ba2218/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
