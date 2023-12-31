@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-![report](../images/Zen-NAS-report.png)
+![](../images/Zen-NAS-report.png)
 
 {% include base_path %}
 
