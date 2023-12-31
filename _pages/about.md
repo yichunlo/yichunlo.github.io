@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
 I graduated from National Taiwan University (NTU) with a BS in [Computer Science & Information Engineering](https://www.csie.ntu.edu.tw/) (CSIE). I'm studying MS in [Computer Science at University of California, Los Angeles](https://www.cs.ucla.edu/) (UCLA), and now seeking for a SWE internship opportunity related to IoT, system, network, backend. I am familiar with C, C++, Python, Java, and interested in CS related techniques and knowledge.
 
 I have both work and research experience. I was a data engineer intern at Graphen, a start up company endeavoring in AI-related products. I was in the robotic team, helping my supervisor solve some computer vision problems, such as pattern recognition, SLAM simulation, and fisheye camera undistortion. I also developed the backend part for the [BizPro official website](https://bizpro-taipei.com/), and wrote APIs to support queries, updates, and maintenance. As for research, my topic is Network Architecture Search. I verified the applicable situation of Zen-NAS, and enhance the accuracy by replacing the random images in Zen-NAS to cifar100 images.
 
 Feel free to contact me if you are interested in the related topics.
 
-For more info
+More Info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+You can find my CV [here](https://drive.google.com/file/d/1TxXhBJxCwEn0iXGu8yHr337vKF6dVio9/view?usp=sharing)
+My Email: yichunlo0919@ucla.edu
