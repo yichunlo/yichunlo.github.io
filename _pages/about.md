@@ -21,4 +21,3 @@ More Info
 You can find my CV [here](https://drive.google.com/file/d/1TxXhBJxCwEn0iXGu8yHr337vKF6dVio9/view?usp=sharing)
 <br>
 Email: yichunlo0919@ucla.edu
-</br>
