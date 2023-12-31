@@ -18,6 +18,6 @@ Feel free to contact me if you are interested in the related topics.
 
 More Info
 ======
-You can find my CV [here](../assets/resume_swe_j.pdf) <br>
+You can find my CV [here](../files/resume_swe_j.pdf) <br>
 [Email](yichunlo0919@ucla.edu) / [Github](https://github.com/yichunlo)
 
