@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+![report](../files/Zen-Nas-report.pdf)
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
