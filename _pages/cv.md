@@ -28,7 +28,7 @@ Experience
   * Developed the back-end system with Node.js and MongoDB; crafted efficient APIs for search, filter, and database management functionalities.
   * Developed an intuitive UI for the back-end system, empowering non-coders to efficiently manage and maintain the system, enhancing user experience and operational efficiency.
 
-* Undergraduate Research Assistant | **AI^2 Lab**, Taipei, Dec. 2021 - Aug. 2022
+* *Undergraduate Research Assistant* | **AI^2 Lab**, Taipei, Dec. 2021 - Aug. 2022
   * Collaborated with two researchers to survey training-free Network Architecture Search (NAS) methods and designed experiments on Zen-NAS.
   * Adapted the NAS-Bench-201 API to conduct testing of Zen-NAS within the NAS-Bench-201 search space and analyzed the impact on different search spaces.
   * Utilized PyTorch and Numpy to replace random image input with the Cifar dataset and improved the top-1 accuracy on the Cifar100 dataset from 80.05% to 81.60% in Zen-NAS.
