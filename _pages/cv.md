@@ -22,12 +22,10 @@ Experience
   * Developed C++ scripts to extract the robot pose from SLAM and made a progress in the auto-docking implementation.
   * Optimized YoloV4 models to achieve 95% precision and establish the pipeline integration with EacyOCR for license plate recognition.
   * Converted the YoloV4 model into ONNX format to promote compatibility between various deep learning frameworks, making the model capable of PyTorch.
-
 * *Web Development Engineer* | **BizPro**, Taipei, Sep. 2022 - Feb. 2023
   * Crawled the membership data with PyMongo and efficiently resolved data format inconsistency by leveraging SQL and Python skills.
   * Developed the back-end system with Node.js and MongoDB; crafted efficient APIs for search, filter, and database management functionalities.
   * Developed an intuitive UI for the back-end system, empowering non-coders to efficiently manage and maintain the system, enhancing user experience and operational efficiency.
-
 * *Undergraduate Research Assistant* | **AI^2 Lab**, Taipei, Dec. 2021 - Aug. 2022
   * Collaborated with two researchers to survey training-free Network Architecture Search (NAS) methods and designed experiments on Zen-NAS.
   * Adapted the NAS-Bench-201 API to conduct testing of Zen-NAS within the NAS-Bench-201 search space and analyzed the impact on different search spaces.
