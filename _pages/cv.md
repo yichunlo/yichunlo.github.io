@@ -57,8 +57,8 @@ Coarsework
   * Built a personal home page with c socket programming  and implemented functions such as comment, login/logout, and video playing.
   * Utilized the cookie to control user login, and encrypted the user account and password with md5.
   * Handled data streaming into chunks to play the video on the website.
-  
-* **Operating System**
+
+* **Operating Systems**
 * **Algorithm Design and Analysis**
 * **Data Structures and Algorithms**
 * **[Computer Vision](http://cv2.csie.ntu.edu.tw/CV/index.html)**
