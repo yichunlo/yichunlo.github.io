@@ -57,7 +57,7 @@ Coarsework
 
 Tutoring
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Data Structures and Object-Oriented Programming in Java
+* Python Programming in Data Science
+* C Programming
+
