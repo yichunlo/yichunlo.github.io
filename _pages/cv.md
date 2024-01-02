@@ -53,7 +53,16 @@ Coarsework
   * Utilized fork() to create a bidding system and implemented the communication between parent and child processes.
   * Implemented a scheduler with setjmp(), longjmp(), mutex, and signals to do context switch, function access control, and multi-process control.
 
-
+* **Computer Network**
+  * Built a personal home page with c socket programming  and implemented functions such as comment, login/logout, and video playing.
+  * Utilized the cookie to control user login, and encrypted the user account and password with md5.
+  * Handled data streaming into chunks to play the video on the website.
+  
+* **Operating System**
+* **Algorithm Design and Analysis**
+* **Data Structures and Algorithms**
+* **[Computer Vision](http://cv2.csie.ntu.edu.tw/CV/index.html)**
+* **[Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)**
 
 Tutoring
 ======
