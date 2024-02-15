@@ -1,6 +1,6 @@
 ---
 title: "DMask"
-excerpt: "iOS App for Digital Mask<br/><img src='/images/dmask-1.png' width='500' height='300' >"
+excerpt: "iOS App for Digital Mask<br/><img src='/images/dmask-1.png' width='100' height='200' >"
 collection: portfolio
 ---
 
