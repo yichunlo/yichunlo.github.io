@@ -58,11 +58,13 @@ Coarsework
   * Utilized the cookie to control user login, and encrypted the user account and password with md5.
   * Handled data streaming into chunks to play the video on the website.
 
+* **Data Management Systems**
 * **Operating Systems**
 * **Algorithm Design and Analysis**
 * **Data Structures and Algorithms**
 * **[Computer Vision](http://cv2.csie.ntu.edu.tw/CV/index.html)**
 * **[Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)**
+* **[Advanced Data Mining](https://github.com/yichousun/Winter2024_CS247_AdvDM)**
 
 Tutoring
 ======

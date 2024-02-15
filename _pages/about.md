@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I graduated from National Taiwan University (NTU) with a BS in [Computer Science & Information Engineering](https://www.csie.ntu.edu.tw/) (CSIE). I'm studying MS in [Computer Science at University of California, Los Angeles](https://www.cs.ucla.edu/) (UCLA), and now seeking for a SWE internship opportunity related to IoT, system, network, or backend. I am familiar with C, C++, Python, Java, and interested in CS related techniques and knowledge.
+I graduated from National Taiwan University (NTU) with a BS in [Computer Science & Information Engineering](https://www.csie.ntu.edu.tw/) (CSIE). I'm studying MS in [Computer Science at University of California, Los Angeles](https://www.cs.ucla.edu/) (UCLA), and now seeking for a SWE internship opportunity related to IoT, system, network, or backend. I am familiar with C, C++, Python, Java, SQL, and interested in CS related techniques and knowledge.
 
 I have both work and research experience. I was a data engineer intern at Graphen, a start up company endeavoring in AI-related products. I was in the robotic team, helping my supervisor solve some computer vision problems, such as pattern recognition, SLAM simulation, and fisheye camera undistortion. I also collaborated with [Win Chou](https://www.winchiuwc.com/), developed the backend part for the [BizPro official website](https://bizpro-taipei.com/), and wrote APIs to support queries, updates, and maintenance. 
 
