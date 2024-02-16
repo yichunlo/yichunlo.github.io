@@ -1,7 +1,13 @@
 ---
 title: "DMask"
-excerpt: "iOS App for Digital Mask<br/><img src='/images/dmask-1.png' width='100' height='200' >"
+excerpt: "iOS App for Digital Mask<br/><img src='/images/dmask-1.png' width='100' height='200' ><img src='/images/dmask-2.png' width='100' height='200'>"
 collection: portfolio
 ---
 
-It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src='/images/dmask-1.png' width='100' height='200'>
+<img src='/images/dmask-2.png' width='100' height='200'>
+<img src='/images/dmask-3.png' width='100' height='200'>
+<img src='/images/dmask-4.png' width='100' height='200'>
+
+
+
