@@ -37,9 +37,9 @@ Experience
 
 Skills
 ======
-* **Programming Language:** *C, C++, Java, Python, SQL, Shell, Swift*
-* **Network & Web:** *JavaScript, Node.js, Socket Programming, DNS, WireShark, Web Crawling, MongoDB*
-* **Develop Tools:** *Git, Docker, VMware Fusion*
+* **Programming Language:** *C, C++, Java, Python, Shell, OpenMP, CUDA C, FPGA*
+* **Network & Web:** *JavaScript, Node.js, Socket Programming, DNS, WireShark, Web Crawling, MongoDB, Redis, Neo4j, postgreSQL*
+* **Develop Tools:** *Git, Docker, AWS, GCP*
 * **Machine Learning:** *PyTorch, TensorFlow, Yolo, Network Architecture Search (NAS)*
 * **Robotics:** *Robot Operating System (ROS), Gazebo, SLAM*
 
