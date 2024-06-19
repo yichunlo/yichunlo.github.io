@@ -46,9 +46,10 @@ Skills
 Coarsework
 ======
 * **Distributed and Parallel Computing**
-  * Applied OpenMP to achieve parallelization in matrix multiplication; designed loop tiling and permutation to utilize cache and resulted in 8 times speed up.
-  * Utilized MPI APIs to communicate through each process, parallelizing the matrix multiplication by dividing the computation into sub-processes and get a 7 times speed up.
-  * Designed implicit loops with CUDA C to parallelize CNN convolution process; utilized shared memory to reuse data and got a 12 times speed up.
+  * Applied OpenMP for parallelization in matrix multiplication; designed loop tiling and permutation strategies to optimize cache utilization, resulting in an 8-fold speed increase.
+  * Utilized MPI APIs for inter-process communication, effectively parallelizing matrix multiplication by segmenting the computation into sub-processes, achieving a 7-fold increase in speed.
+  * Leveraged CUDA C to design implicit loops, block sizes, and grid dimensions, parallelizing the CNN convolution process and achieving a 14-fold speed enhancement.
+  * Designed pipeline and parallelization strategy on FPGA, achieving a 15-fold speed enhancement in CNN computation.
 
 * **System Programming**
   * Managed file locks to handle concurrent file access requests successfully in a multi-user environment.
@@ -61,6 +62,7 @@ Coarsework
   * Handled data streaming into chunks to play the video on the website.
 
 * **Data Management Systems**
+* **Compiler**
 * **Operating Systems**
 * **Algorithm Design and Analysis**
 * **Data Structures and Algorithms**
