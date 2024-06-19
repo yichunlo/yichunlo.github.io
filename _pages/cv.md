@@ -16,6 +16,8 @@ Education
 
 Experience
 ======
+* *Software Engineer Intern* \| **Graphen, Inc.**, New York, Jun. 2024 - Current
+
 * *BizPro Official Website* \| **BizPro**, Taipei, Sep. 2022 - Feb. 2023
   * Crawled the membership data with PyMongo and efficiently resolved data format inconsistency by leveraging SQL and Python skills.
   * Developed the back-end system with Node.js and MongoDB; crafted efficient APIs for search, filter, and database management functionalities.
